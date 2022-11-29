@@ -1,27 +1,22 @@
 body {
-    background-color:antiquewhite;
+    background-color:pink;
 }
 
 h1 {
-
     font-size: 50px;
-    font-style:initial;
+    font-style:oblique
 }
 
 p {
     font-size: 18px;
     font-weight: bold;
-    font-style: italic;
+}
+fieldset{
+    background-color: aliceblue;
+    border-color:coral;
+
 }
 
-a:visited {
-    font-style: italic;
-    color:skyblue;
-}
-
-a:hover {
-background-color:antiquewhite;
-}
 button {
     height: 28px;
     background-color:plum;
