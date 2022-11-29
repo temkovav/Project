@@ -1,0 +1,68 @@
+body {
+    background-color:beige;
+    text-align: left;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+div {
+    width: 400px;
+    height: 530px;
+    margin: auto;
+    border:  rgb(152, 73, 73);
+}
+
+div#Second {
+    width: 400px;
+    height: 530px;
+    margin: auto;
+    border:  black;
+}
+
+img {
+    width: 400px;
+    height: 530px;
+}
+
+img#Second {
+    width: 450px;
+    height: 400px;
+}
+
+
+
+img#outline1, img#outline2 {
+    width: 50px;
+    height: 40px;
+    float: center;
+    margin-left: 5px;
+}
+
+img#comment {
+    width: 40px;
+    height: 40px;
+    float: right;
+    margin-right: 5px;
+}
+
+label {
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+button {
+    height: 28px;
+    background-color:chocolate;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    border-radius: 3px;
+    border-color:chocolate;
+}
+
+p {
+    float: center;
+}
